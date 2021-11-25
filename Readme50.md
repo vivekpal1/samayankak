@@ -1,6 +1,6 @@
-# Project Title
+# Samayankak: A screen-time extension for Chrome
 
-Samayankak: A screen-time extension for Chrome
+Samayankak: A screen-time extension for Google Chrome to increse your time management and productivity.
 
 ## Description
 
