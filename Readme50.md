@@ -17,8 +17,3 @@ It will be uploaded on Google Chrome within few days.
 * Open Chrome Extensions and Go to "Manage Extensions"
 * Click on "Load Unpacked"
 * Your Extension will be installed.
-
-#### Thank You CS50 Team
-
-I enjoyed the course and the journy through whole course was just awesome.
-I will be continuing with CS50 Web in the year 2022
